@@ -1,0 +1,6 @@
+streamlit
+Pillow
+rembg
+onnxruntime
+requests
+beautifulsoup4
